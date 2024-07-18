@@ -87,6 +87,7 @@ summary.lm(fullup)
 ```
 ### Best Models
 
+This chart's best model is the L1-L2-L3, Height and Weight measurement. This has an estimated Adjusted R Squared is 0.9794
 ### Best Two regressor model
 
 ## Roach
