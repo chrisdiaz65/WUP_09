@@ -135,4 +135,5 @@ This chart probides that the best overall model is L3 and Width.
 
 ### Best Two regressor model
 
+The best two regressor model is also L3 and Width. The adjusted R Squared is 0.821.  
 ## Final Summary Statements
