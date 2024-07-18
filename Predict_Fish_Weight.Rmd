@@ -56,6 +56,7 @@ summary.lm(fullup)
 ```
 
 ### Best Models
+The data for the adjusted squared has a best model for length. We can determine this summary has a p-value of 2.2e-16.
 
 ### Best Two regressor model
 
