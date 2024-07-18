@@ -131,6 +131,8 @@ subsets(regsubsets.out,statistic="adjr2",legend="bottomleft",main="Adjusted R^2"
 
 ### Best Models
 
+This chart probides that the best overall model is L3 and Width.
+
 ### Best Two regressor model
 
 ## Final Summary Statements
