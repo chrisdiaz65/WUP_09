@@ -81,6 +81,10 @@ Using the above chart, we can see that the best two regressor models are Height 
 
 ## Pike
 
+```{r}
+fullup <- lm(Weight~ .,data=Pike)
+summary.lm(fullup)
+```
 ### Best Models
 
 ### Best Two regressor model
